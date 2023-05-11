@@ -2,7 +2,7 @@
 
 ## Descriptions
 
-In this project we made a progressive web application that runs in the browser and works offline. the packages used in this project are node.js, express, and a set of webpack dependencies were used to effectively transform the browser based application into a progressive web application.
+In this project we made a progressive web application that runs in the browser and works offline. The packages used in this project are node.js, express, and a set of webpack dependencies were used to effectively transform the browser based application into a progressive web application.
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ Run npm i to install dependencies in local project directory.
 Run npm install --save-dev webpack to install Webpack.
 
 ## Usage
-Use application through the deployed link above.
+Use application through the deployed link.
 Else, open integrated terminal in personal IDE.
 Run npm run start:dev to initiate webpack build and start server on local port.
 For offline use, user can go to the link and click the "install" button to open the web application on home screen.
@@ -39,6 +39,7 @@ MIT
 
 
 ## Tests
+https://arcane-fortress-75132.herokuapp.com/
 
 
 
